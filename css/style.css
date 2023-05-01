@@ -1,0 +1,18 @@
+.input{
+    border-radius: 50px;
+    border: 2px solid greenyellow;
+    background-color: bisque;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+#btn{
+    "border-radius: 100px ; 
+    border-color: blue; 
+    padding-left: 15px; 
+    padding-right: 15px; 
+    background-color: aqua; 
+    border: 2px solid; 
+    border-color: rgb(0, 0, 0);"
+}
